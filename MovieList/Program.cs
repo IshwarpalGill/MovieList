@@ -23,7 +23,7 @@ namespace MovieList
 
             Console.WriteLine("Welcome to the Movie List Application!");
             Console.WriteLine("What category are you interested in? (Animated, Drama, Horror, Scifi)");
-            string input = Console.ReadLine().ToLower();
+            string input = Console.ReadLine();
             string ans = Validate(input);
 
             foreach (Movie m in movieList)
@@ -45,10 +45,10 @@ namespace MovieList
             {
                 try
                 {
-                    if (input == "drama" || input == "animated" || input == "scifi" || input == "horror")
+                    if (input.ToLower() == "drama" || input.ToLower() == "animated" || input.ToLower() == "scifi" || input.ToLower() == "horror")
                     {
                         //again = false;
-                        return input;
+                        return input.ToLower();
                         
                     }
                     else
@@ -69,8 +69,14 @@ namespace MovieList
                     input = Console.ReadLine();
                     //again = true;
                 }
+                catch(NullReferenceException ex)
+                {
+                    Console.WriteLine("Please enter a valid category");
+                    input = Console.ReadLine();
+                }
             }
             //again = true;
+
         }
     }
 }
