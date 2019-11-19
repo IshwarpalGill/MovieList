@@ -1,0 +1,11 @@
+C:\Users\Ishwa\Documents\GrandCircus\MovieList\MovieList\bin\Debug\netcoreapp3.0\MovieList.exe
+C:\Users\Ishwa\Documents\GrandCircus\MovieList\MovieList\bin\Debug\netcoreapp3.0\MovieList.deps.json
+C:\Users\Ishwa\Documents\GrandCircus\MovieList\MovieList\bin\Debug\netcoreapp3.0\MovieList.runtimeconfig.json
+C:\Users\Ishwa\Documents\GrandCircus\MovieList\MovieList\bin\Debug\netcoreapp3.0\MovieList.runtimeconfig.dev.json
+C:\Users\Ishwa\Documents\GrandCircus\MovieList\MovieList\bin\Debug\netcoreapp3.0\MovieList.dll
+C:\Users\Ishwa\Documents\GrandCircus\MovieList\MovieList\bin\Debug\netcoreapp3.0\MovieList.pdb
+C:\Users\Ishwa\Documents\GrandCircus\MovieList\MovieList\obj\Debug\netcoreapp3.0\MovieList.csprojAssemblyReference.cache
+C:\Users\Ishwa\Documents\GrandCircus\MovieList\MovieList\obj\Debug\netcoreapp3.0\MovieList.AssemblyInfoInputs.cache
+C:\Users\Ishwa\Documents\GrandCircus\MovieList\MovieList\obj\Debug\netcoreapp3.0\MovieList.AssemblyInfo.cs
+C:\Users\Ishwa\Documents\GrandCircus\MovieList\MovieList\obj\Debug\netcoreapp3.0\MovieList.dll
+C:\Users\Ishwa\Documents\GrandCircus\MovieList\MovieList\obj\Debug\netcoreapp3.0\MovieList.pdb
